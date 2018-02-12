@@ -17,7 +17,7 @@ setup(
     # description description (displayed on PyPI's page for the package)
     long_description=readme + '\n\n' + changes,
     # The maintainer
-    author='Emilie',
+    author='Em774',
     # Thei email
     author_email='emilie@wegotpop.com',
     # The package's website
