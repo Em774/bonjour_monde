@@ -1,7 +1,5 @@
-import pytest
 import bonjour
-import builtins
-from unittest import mock
+
 
 def test_bonjour_no_name():
     """
